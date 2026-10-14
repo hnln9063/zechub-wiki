@@ -1,0 +1,1 @@
+Address decoder changes will document receiver classification and NU6.3 compatibility.
